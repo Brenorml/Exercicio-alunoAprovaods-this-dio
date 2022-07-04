@@ -1,4 +1,4 @@
-Exercícios da aula de Funções ministrados pela professora [stebsnusch](https://github.com/stebsnusch) da plataforma DIO.
+Exercícios da aula de Funções ministrado pela professora [stebsnusch](https://github.com/stebsnusch) da plataforma DIO.
 
 
 
